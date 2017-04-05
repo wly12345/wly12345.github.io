@@ -43,7 +43,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": false,
+            "showHeader": true,
             "showSubheader": false,
             "columns": "3",
             "showImages": true,
@@ -52,7 +52,7 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "TRAFFIC DIRECTOR",
+          "header": "Please read the instructions below",
           "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
