@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "JB",
+    "name": "WLGitHub",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -9,16 +9,20 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 6,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "WLGithub",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<!-- Localizer Integration Code -->\n<script type=\"text/javascript\" src=\"https://localizercdn.com/localizer.js\"></script>\n<script>\n    Localizer.init({\n        siteId: 874296736,\n        cacheall: true,\n        detectnew: true\n    });\n</script>",
         "html_before": ""
       },
       "components": [
@@ -27,6 +31,11 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "features1-3",
           "_params": {
             "paddingTop": "1",
@@ -189,12 +198,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         }
       ]
     }
